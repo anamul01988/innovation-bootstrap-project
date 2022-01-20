@@ -1,0 +1,16 @@
+.content-one img{
+    width: 100Px;
+    height: 100px;
+}
+.content-one h3 {
+    text-transform: capitalize;
+    font-size: 18px;
+}
+/* 
+ Medium devices (tablets, 768px and up)  */
+@media (min-width: 576px) { 
+    .course-footer{
+       display: flex;
+       flex-direction: row;
+    }
+ }
